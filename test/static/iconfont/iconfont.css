@@ -1,0 +1,96 @@
+@font-face {font-family: "iconfont";
+  src: url('~@/static/iconfont/iconfont.ttf');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconcalendar:before {
+  content: "\e746";
+}
+
+.iconbrowse:before {
+  content: "\e745";
+}
+
+.iconmobile-phone:before {
+  content: "\e75b";
+}
+
+.iconsecurity:before {
+  content: "\e762";
+}
+
+.iconsalescenter:before {
+  content: "\e763";
+}
+
+.iconarrow-down:before {
+  content: "\e7b4";
+}
+
+.iconorder:before {
+  content: "\e7b5";
+}
+
+.iconbussiness-man:before {
+  content: "\e6ef";
+}
+
+.iconinquiry-template:before {
+  content: "\e754";
+}
+
+.iconmanage-order:before {
+  content: "\e759";
+}
+
+.iconnotice:before {
+  content: "\e75a";
+}
+
+.iconunlock:before {
+  content: "\e773";
+}
+
+.iconbussiness-man-fill:before {
+  content: "\e779";
+}
+
+.iconinquiry-template-fill:before {
+  content: "\e781";
+}
+
+.iconmanage-order-fill:before {
+  content: "\e783";
+}
+
+.iconreeor-fill:before {
+  content: "\e789";
+}
+
+.iconbrand:before {
+  content: "\e79d";
+}
+
+.iconhome:before {
+  content: "\e7a7";
+}
+
+.iconhome-fill:before {
+  content: "\e7ae";
+}
+
+.iconcomments:before {
+  content: "\e7b2";
+}
+
+.iconsearch:before {
+  content: "\e7b3";
+}
+
